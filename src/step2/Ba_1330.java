@@ -1,3 +1,5 @@
+package step2;
+
 import java.util.Scanner;
 
 public class Ba_1330 {
